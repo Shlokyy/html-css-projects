@@ -1,0 +1,98 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+
+.paragraph1{
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+
+.heading1{
+
+    width: 100%;
+    height: 600px;
+    background-image: url(img2.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.heading2{
+    margin: 0px;
+    width: 100%;
+    height: 600px;
+    background-image: url(img3.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.heading1 h1{
+    margin: 0px;
+    position: relative;
+    left: 500px;
+    top: 270px;
+    width: 300px;
+    height: 60px;
+    padding: 30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.heading2 h1{
+    margin: 0px;
+    position: relative;
+    left: 500px;
+    top: 270px;
+    width: 300px;
+    height: 60px;
+    padding: 30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.heading3 h1{
+    margin: 0px;
+    position: relative;
+    left: 500px;
+    top: 270px;
+    width: 300px;
+    height: 60px;
+    padding: 30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.heading4 h1{
+    margin: 0px;
+    position: relative;
+    left: 500px;
+    top: 270px;
+    width: 300px;
+    height: 60px;
+    padding: 30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.heading3{
+    width: 100%;
+    height: 600px;
+    background-image: url(img1.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.heading4{
+    width: 100%;
+    height: 600px;
+    background-image: url(img4.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+

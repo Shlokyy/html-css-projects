@@ -1,0 +1,16 @@
+.maindiv{
+    width: 60%;
+    height: 30%;
+    margin: 40px auto;
+    background-color: red;
+    box-shadow: 10px 10px 8px grey;
+}
+
+.maindiv h1{
+    color: white;
+    text-align: center;
+    padding: 60px 0px;
+    font-size: 75px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 8px -8px 8px black;
+}
